@@ -1,3 +1,5 @@
+# Problem statement: http://www.codeforces.com/problemset/problem/765/A
+
 n = int(input())
 home = input()
 src = []
@@ -8,5 +10,7 @@ for i in range(n):
 	dest.append(x[1])
 cs = src.count(home)
 cd = dest.count(home)
-if cs > cd: print('contest')
-else: print('home')
+if cs > cd:
+	print('contest')
+else:
+	print('home')

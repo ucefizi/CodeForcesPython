@@ -1,3 +1,5 @@
+# Problem statement: http://www.codeforces.com/problemset/problem/765/B
+
 st = (list(input()))
 s = sorted(set(st), key=st.index)
 n = len(s)

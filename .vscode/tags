@@ -1,0 +1,169 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	../PB749b.py	/^A = [float(i) for i in input().split()]$/;"	kind:variable	line:3
+B	../PB749b.py	/^B = [float(i) for i in input().split()]$/;"	kind:variable	line:4
+B	../PB841a.py	/^B = set(S)$/;"	kind:variable	line:5
+C	../PB749b.py	/^C = [float(i) for i in input().split()]$/;"	kind:variable	line:5
+C	../PB841a.py	/^C = [S.count(i) for i in S]$/;"	kind:variable	line:6
+N	../PB841b.py	/^N = int(input())$/;"	kind:variable	line:3
+PB1a.py	../PB1a.py	1;"	kind:file	line:1
+PB445a.py	../PB445a.py	1;"	kind:file	line:1
+PB456b.py	../PB456b.py	1;"	kind:file	line:1
+PB4a.py	../PB4a.py	1;"	kind:file	line:1
+PB518a.py	../PB518a.py	1;"	kind:file	line:1
+PB520a.py	../PB520a.py	1;"	kind:file	line:1
+PB621a.py	../PB621a.py	1;"	kind:file	line:1
+PB621b.py	../PB621b.py	1;"	kind:file	line:1
+PB630b.py	../PB630b.py	1;"	kind:file	line:1
+PB630c.py	../PB630c.py	1;"	kind:file	line:1
+PB630f.py	../PB630f.py	1;"	kind:file	line:1
+PB630h.py	../PB630h.py	1;"	kind:file	line:1
+PB630j.py	../PB630j.py	1;"	kind:file	line:1
+PB630l.py	../PB630l.py	1;"	kind:file	line:1
+PB630n.py	../PB630n.py	1;"	kind:file	line:1
+PB630o.py	../PB630o.py	1;"	kind:file	line:1
+PB659a.py	../PB659a.py	1;"	kind:file	line:1
+PB660b.py	../PB660b.py	1;"	kind:file	line:1
+PB664a.py	../PB664a.py	1;"	kind:file	line:1
+PB667a.py	../PB667a.py	1;"	kind:file	line:1
+PB667b.py	../PB667b.py	1;"	kind:file	line:1
+PB672a.py	../PB672a.py	1;"	kind:file	line:1
+PB672b.py	../PB672b.py	1;"	kind:file	line:1
+PB675a.py	../PB675a.py	1;"	kind:file	line:1
+PB6a.py	../PB6a.py	1;"	kind:file	line:1
+PB734a.py	../PB734a.py	1;"	kind:file	line:1
+PB740a.py	../PB740a.py	1;"	kind:file	line:1
+PB745a.py	../PB745a.py	1;"	kind:file	line:1
+PB749a.py	../PB749a.py	1;"	kind:file	line:1
+PB749b.py	../PB749b.py	1;"	kind:file	line:1
+PB758a.py	../PB758a.py	1;"	kind:file	line:1
+PB758b.py	../PB758b.py	1;"	kind:file	line:1
+PB765a.py	../PB765a.py	1;"	kind:file	line:1
+PB765b.py	../PB765b.py	1;"	kind:file	line:1
+PB765c.py	../PB765c.py	1;"	kind:file	line:1
+PB766a.py	../PB766a.py	1;"	kind:file	line:1
+PB766b.py	../PB766b.py	1;"	kind:file	line:1
+PB822a.py	../PB822a.py	1;"	kind:file	line:1
+PB841a.py	../PB841a.py	1;"	kind:file	line:1
+PB841b.py	../PB841b.py	1;"	kind:file	line:1
+PB84a.py	../PB84a.py	1;"	kind:file	line:1
+S	../PB841a.py	/^S = list(input())$/;"	kind:variable	line:4
+TAB	../PB841a.py	/^TAB = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+TAB	../PB841b.py	/^TAB = [int(i) for i in input().split()]$/;"	kind:variable	line:4
+X	../PB841b.py	/^	X = list(filter(lambda x: x%2 == 1, TAB))$/;"	kind:variable	line:8
+a	../PB659a.py	/^				a = 0$/;"	kind:variable	line:13
+a	../PB659a.py	/^				a = n+1$/;"	kind:variable	line:22
+a	../PB734a.py	/^a = 0$/;"	kind:variable	line:5
+b	../PB659a.py	/^		b = -b$/;"	kind:variable	line:19
+c	../PB672b.py	/^		c = strg[0]$/;"	kind:variable	line:10
+cAB	../PB749b.py	/^cAB = [(A[0]+B[0])\/2, (A[1]+B[1])\/2]$/;"	kind:variable	line:6
+cAC	../PB749b.py	/^cAC = [(A[0]+C[0])\/2, (A[1]+C[1])\/2]$/;"	kind:variable	line:7
+cBC	../PB749b.py	/^cBC = [(C[0]+B[0])\/2, (C[1]+B[1])\/2]$/;"	kind:variable	line:8
+cd	../PB765a.py	/^cd = dest.count(home)$/;"	kind:variable	line:12
+ceil	../PB1a.py	/^from math import ceil$/;"	kind:namespace	line:3
+cs	../PB765a.py	/^cs = src.count(home)$/;"	kind:variable	line:11
+d	../PB520a.py	/^d = 0$/;"	kind:variable	line:6
+d	../PB621b.py	/^d = 0$/;"	kind:variable	line:6
+d	../PB734a.py	/^d = 0$/;"	kind:variable	line:6
+de	../PB630n.py	/^de = pow(tab[1], 2) - 4*tab[0]*tab[2]$/;"	kind:variable	line:5
+dest	../PB765a.py	/^dest = []$/;"	kind:variable	line:6
+dic	../PB758b.py	/^	dic = {'R': 0, 'B': 0, 'Y': 0, 'G': 0}$/;"	kind:variable	line:7
+factorial	../PB630h.py	/^from math import factorial$/;"	kind:namespace	line:3
+factorial	../PB822a.py	/^from math import factorial$/;"	kind:namespace	line:3
+func	../PB766b.py	/^def func(tab, n):$/;"	kind:function	line:3
+gcd	../PB664a.py	/^def gcd(a, b):$/;"	kind:function	line:3
+he	../PB667a.py	/^he = 4*v\/(pi*d**2)$/;"	kind:variable	line:6
+home	../PB765a.py	/^home = input()$/;"	kind:variable	line:4
+i	../PB4a.py	/^i = int(input())$/;"	kind:variable	line:3
+i	../PB621a.py	/^i = 0$/;"	kind:variable	line:12
+i	../PB621a.py	/^i = 0$/;"	kind:variable	line:6
+i	../PB621b.py	/^i = 0$/;"	kind:variable	line:7
+j	../PB621b.py	/^	j = i+1$/;"	kind:variable	line:9
+m	../PB630l.py	/^m = [int(i) for i in input()]$/;"	kind:variable	line:3
+mul	../PB630f.py	/^from operator import mul$/;"	kind:namespace	line:3
+mul	../PB630h.py	/^from operator import mul$/;"	kind:namespace	line:4
+n	../PB520a.py	/^n = input()$/;"	kind:variable	line:3
+n	../PB621a.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB630f.py	/^n = int(input())$/;"	kind:variable	line:14
+n	../PB630h.py	/^n = int(input())$/;"	kind:variable	line:15
+n	../PB667b.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB672a.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB672b.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB734a.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB749a.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB758a.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB765a.py	/^n = int(input())$/;"	kind:variable	line:3
+n	../PB765b.py	/^n = len(s)$/;"	kind:variable	line:5
+n	../PB766b.py	/^n = int(input())$/;"	kind:variable	line:11
+ncr	../PB630f.py	/^def ncr(n, r):$/;"	kind:function	line:6
+ncr	../PB630h.py	/^def ncr(n, r):$/;"	kind:function	line:7
+nextC	../PB518a.py	/^def nextC(ch):$/;"	kind:function	line:3
+nextS	../PB518a.py	/^def nextS(st):$/;"	kind:function	line:8
+p1	../PB749b.py	/^p1 = [2*cAB[0]-C[0], 2*cAB[1]-C[1]]$/;"	kind:variable	line:9
+p2	../PB749b.py	/^p2 = [2*cAC[0]-B[0], 2*cAC[1]-B[1]]$/;"	kind:variable	line:10
+p3	../PB749b.py	/^p3 = [2*cBC[0]-A[0], 2*cBC[1]-A[1]]$/;"	kind:variable	line:11
+pi	../PB667a.py	/^from math import pi$/;"	kind:namespace	line:3
+reduce	../PB630f.py	/^from functools import reduce$/;"	kind:namespace	line:4
+reduce	../PB630h.py	/^from functools import reduce$/;"	kind:namespace	line:5
+s	../PB445a.py	/^	s = list(input())$/;"	kind:variable	line:5
+s	../PB518a.py	/^s = input()$/;"	kind:variable	line:17
+s	../PB734a.py	/^s = input()$/;"	kind:variable	line:4
+s	../PB765b.py	/^s = sorted(set(st), key=st.index)$/;"	kind:variable	line:4
+s1	../PB766a.py	/^s1 = input()$/;"	kind:variable	line:3
+s2	../PB766a.py	/^s2 = input()$/;"	kind:variable	line:4
+sa	../PB765c.py	/^sa = int(tab[1]\/tab[0])$/;"	kind:variable	line:4
+sb	../PB765c.py	/^sb = int(tab[2]\/tab[0])$/;"	kind:variable	line:5
+som	../PB621a.py	/^som = su$/;"	kind:variable	line:11
+sqrt	../PB630n.py	/^from math import sqrt$/;"	kind:namespace	line:3
+sqrt	../PB630o.py	/^from math import sqrt$/;"	kind:namespace	line:3
+src	../PB765a.py	/^src = []$/;"	kind:variable	line:5
+st	../PB518a.py	/^st = nextS(s)$/;"	kind:variable	line:19
+st	../PB520a.py	/^st = input()$/;"	kind:variable	line:4
+st	../PB745a.py	/^	st = st[-1:] + st[:-1]$/;"	kind:variable	line:7
+st	../PB745a.py	/^st = input()$/;"	kind:variable	line:3
+st	../PB765b.py	/^st = (list(input()))$/;"	kind:variable	line:3
+strg	../PB520a.py	/^strg = 'abcdefghijklmnopqrstuvwxyz'$/;"	kind:variable	line:5
+strg	../PB672a.py	/^	strg = ""$/;"	kind:variable	line:7
+strg	../PB672b.py	/^		strg = strg[1:]$/;"	kind:variable	line:11
+strg	../PB672b.py	/^strg = input()$/;"	kind:variable	line:4
+su	../PB621a.py	/^	su = som - tab[i]$/;"	kind:variable	line:15
+su	../PB621a.py	/^su = 0$/;"	kind:variable	line:7
+t	../PB518a.py	/^t = input()$/;"	kind:variable	line:18
+t	../PB630b.py	/^t = [float(i) for i in input().split()]$/;"	kind:variable	line:3
+t	../PB667a.py	/^	t = h\/(he-e)$/;"	kind:variable	line:10
+tab	../PB1a.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB445a.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+tab	../PB621a.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB621b.py	/^tab = []$/;"	kind:variable	line:3
+tab	../PB630n.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB630o.py	/^tab = [float(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB660b.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+tab	../PB667a.py	/^tab = [float(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB667b.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB740a.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+tab	../PB745a.py	/^tab = []$/;"	kind:variable	line:4
+tab	../PB758a.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:4
+tab	../PB758b.py	/^tab = list(input())$/;"	kind:variable	line:3
+tab	../PB765c.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+tab	../PB766b.py	/^tab = [int(i) for i in input().split()]$/;"	kind:variable	line:12
+tabx	../PB630o.py	/^tabx = [0, 0, 0, 0, 0, 0, 0]$/;"	kind:variable	line:5
+taby	../PB630o.py	/^taby = [0, 0, 0, 0, 0, 0, 0]$/;"	kind:variable	line:6
+x	../PB659a.py	/^x = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+x	../PB660b.py	/^x = ""$/;"	kind:variable	line:5
+x	../PB660b.py	/^x = x[:-1]$/;"	kind:variable	line:19
+x	../PB664a.py	/^x = [int(i) for i in input().split()]$/;"	kind:variable	line:10
+x	../PB667b.py	/^x = tab.pop()$/;"	kind:variable	line:6
+x	../PB672b.py	/^x = 0$/;"	kind:variable	line:5
+x	../PB675a.py	/^x = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+x	../PB6a.py	/^x = [int(i) for i in input().split()]$/;"	kind:variable	line:3
+x	../PB758a.py	/^x = max(tab)$/;"	kind:variable	line:5
+x	../PB765a.py	/^	x = input().split('->')$/;"	kind:variable	line:8
+x	../PB765b.py	/^		x = 'NO'$/;"	kind:variable	line:9
+x	../PB765b.py	/^x = 'YES'$/;"	kind:variable	line:6
+x1	../PB630n.py	/^x1 = (-tab[1] - sqrt(de))\/(2*tab[0])$/;"	kind:variable	line:6
+x2	../PB630n.py	/^x2 = (-tab[1] + sqrt(de))\/(2*tab[0])$/;"	kind:variable	line:7
+y	../PB758a.py	/^y = 0$/;"	kind:variable	line:6

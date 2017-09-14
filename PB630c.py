@@ -1,6 +1,3 @@
-import math
-n=int(input())
-m=0
-for i in range(1, n+1) :
-	m+=pow(2, i)
-print(m)
+# Problem statement: http://www.codeforces.com/problemset/problem/630/C
+
+print(2**(int(input())+1) - 2)

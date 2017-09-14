@@ -1,5 +1,6 @@
-n=int(input())
-if(n%4==0):
+# Problem statement: http://www.codeforces.com/problemset/problem/456/B
+
+if not int(input())%4:
 	print(4)
-else :
+else:
 	print(0)
